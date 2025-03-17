@@ -1,7 +1,7 @@
 NAME = "Ped"
-HASH = "13b1607f156d7a7f0c755dbf4ea5061a"
-ID =28341593
-BOT_TK = "6587799120:AAGshHv1iSaUCD1Cal9BtzsiCwzSG533jHY"
+HASH = "39ad6135ac9b75a47f2d1804c092c8f8"
+ID =878626783
+BOT_TK = "5895984505:AAF4h96HJ9a2zbe42ALg28tWNcAENu4zF30"
 ZIPS = 10
 
 # para meter mas usuarios solo meta el ID del usuario 
